@@ -53,7 +53,7 @@ I'm Sonia and I am a postgraduate student at Politecnico di Torino.
 
    [![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/so_matra)
 
-   ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonia-matranga-789865301/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoniaMatranga&layout=compact&theme=dark&hide_border=true&langs_count=10)
 
