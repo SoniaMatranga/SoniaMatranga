@@ -25,9 +25,8 @@ I'm Sonia and I am a postgraduate student at Politecnico di Torino.
 
 - 📫 How to reach me: [Instagram](https://www.instagram.com/soni_matraa_/)
 
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoniaMatranga&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoniaMatranga&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
-![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=SoniaMatranga&show_icons=true&hide_border=true&theme=dark)
+![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=SoniaMatranga&show_icons=true&hide_border=true&theme=dark) 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SoniaMatranga)](https://github.com/gkhan205/github-profile-trophy)
