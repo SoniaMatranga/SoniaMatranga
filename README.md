@@ -55,7 +55,7 @@ I'm Sonia and I am a postgraduate student at Politecnico di Torino.
 
    ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoniaMatranga&layout=compact&theme=dark&hide_border=true&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoniaMatranga&layout=compact&theme=dark&hide_border=true&langs_count=10)
 
 ![Sonia's github stats](https://github-readme-stats.vercel.app/api?username=SoniaMatranga&show_icons=true&hide_border=true&theme=dark) 
 
